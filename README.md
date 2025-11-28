@@ -46,3 +46,47 @@ I enjoy breaking things (in a good way 😄) and helping teams ship features wit
 
 🎥 Jam.dev
 
+🔧 TECH SKILLS
+
+Manual Testing – functional, regression, UAT
+
+Test Documentation – test cases, test scenarios, bug reports
+
+DevTools knowledge
+
+SQL (basic queries)
+
+REST API testing (Postman)
+
+HTML/CSS basics (untuk kebutuhan QA)
+
+Understanding of delivery methodologies (agile, scrum, kanban)
+
+Markdown knowledge
+
+Browser & device compatibility testing
+
+🌟 SOFT SKILLS
+
+🔍 precision and attention to detail
+
+🙌 communication and teamwork skills
+
+✴️ critical thinking
+
+📚 ability to learn new tools & systems quickly
+
+💡 thinking outside the box
+
+🧩 problem solving and analytical skills
+
+🚀 proactive attitude
+
+🎯 desire for self-development
+
+⚡ energetic and motivated
+
+🗂️ well-organized
+
+📌 Cara nambahnya ke GitHub README:
+
