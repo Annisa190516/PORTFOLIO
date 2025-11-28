@@ -2,8 +2,10 @@
 My personal Quality Assurance portfolio – test cases, bug reports, test plans, and QA projects.
 
 👩🏻‍💻 About Me
-I am a Quality Assurance Engineer with experience in manual testing, regression testing, UAT, bug reporting, and structured documentation.
-I’m detail-oriented and passionate about ensuring that every feature is stable and reliable before release.
+
+Hi! I'm Annisa Fitriani, a Quality Assurance with hands-on experience in manual testing, regression testing, UAT, bug reporting, and structured documentation.
+I’m a detail-oriented tester who focuses on product stability, clarity of test scenarios, and delivering clean, reliable results before every release.
+I enjoy breaking things (in a good way 😄) and helping teams ship features with confidence.
 
 🧰 Skills & Tools
 🔍 Testing Skills
