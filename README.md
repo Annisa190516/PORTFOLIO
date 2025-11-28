@@ -6,12 +6,41 @@ I am a Quality Assurance Engineer with experience in manual testing, regression 
 I’m detail-oriented and passionate about ensuring that every feature is stable and reliable before release.
 
 🧰 Skills & Tools
-Manual Testing (Web & Mobile)
-Functional, Regression, UAT
-Test Case Design & Execution
-Bug Reporting (clear, reproducible format)
-API Testing (Postman – basic)
-SQL (basic queries)
-Jira, TestRail/Sheets, Notion, Confluence, Figma, Jam.dev
-Chrome DevTools
+🔍 Testing Skills
+
+🖥️ Manual Testing (Web)
+
+📱 Manual Testing (Mobile)
+
+🧪 Functional Testing
+
+🔁 Regression Testing
+
+🤝 UAT (User Acceptance Testing)
+
+🧩 Test Case Design (Positive, Negative, Edge)
+
+🐞 Bug Reporting (clear & reproducible format)
+
+🛠️ Technical Skills
+
+🔌 API Testing (Postman – basic)
+
+🗄️ SQL (basic queries)
+
+🧭 Chrome DevTools
+
+📚 Tools & Documentation
+
+🗂️ Jira
+
+📊 TestRail / Google Sheets
+
+🧾 Notion
+
+📘 Confluence
+
+🎨 Figma
+
+🎥 Jam.dev
 
