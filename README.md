@@ -29,4 +29,3 @@ I enjoy breaking things (in a good way 😄) and helping teams ship features wit
 - 📘 Confluence
 - 🎨 Figma
 - 🎥 Jam.dev
-
