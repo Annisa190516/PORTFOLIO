@@ -34,172 +34,90 @@ I enjoy breaking things (in a good way 😄) and helping teams ship features wit
 ---
 Here is a collection of Quality Assurance projects I’ve worked on, including test plans, test cases, and bug reports. All documents are created manually as part of my professional QA practice.
 
-**📄 Test Plan Documentation**
+📄 Test Plan
+---
+Link: https://docs.google.com/document/d/1SH8rmzVEbiHH5VXzJm65VwAEEEUQdQxwZQUfBH0qyxo
 
-🔗 View Full Test Plan: https://github.com/yourusername/qa-portfolio/blob/main/TestPlan.md
+**Overview**
 
-📌 Project: Web Application – Checkout & User Management
-🎯 Objective: Ensure all features function as expected, free from major defects, and ready for release.
+A comprehensive test plan outlining scope, objectives, strategy, resources, risks, and timelines for the QA process.
 
-🔍 Scope of Testing
+**Highlights**
 
-✔️ Functional Testing
+- Functional, regression, and UAT coverage
+- Entry & exit criteria
+- Test approach and methodology
+- Deliverables and testing workflows
+- Risk and mitigation strategy
 
-✔️ Regression Testing
+📊 Test Cases
+---
+Link: https://docs.google.com/spreadsheets/d/1r6WsoMgUfc_BHciAIzQ1EoMZwqYu3sn_KV0lmpDWWdc
 
-✔️ User Acceptance Testing (UAT)
+**Format Includes**
 
-✔️ Error Handling Validation
+- Test Case ID
+- Module
+- Pre-condition
+- Test Steps
+- Expected Result
+- Status
+- Notes
 
-✔️ Basic UI/UX Validation
-
-✔️ Basic API Validation
-
-🧭 Test Approach
-
-📌 Derive test scenarios from acceptance criteria
-
-📌 Write detailed test cases (pre-condition, steps, expected results)
-
-📌 Perform smoke testing on every build
-
-📌 Run regression tests for existing features
-
-📌 Retest fixed bugs
-
-📌 Module risk analysis
-
-🚪 Entry Criteria
-
-Staging build available
-
-Finalized requirements
-
-API & Database accessible
-
-🚪 Exit Criteria
-
-All critical & major cases passed
-
-No blocking bugs
-
-Regression testing completed
-
-📎 Deliverables
-
-Test Plan Document
-
-Test Cases
-
-Bug Report
-
-Test Summary Report
-
-🧾 Test Case Documentation
-
-🔗 View Full Test Cases: https://github.com/yourusername/qa-portfolio/blob/main/TestCases.xlsx
-
-I write all test cases using a structured template:
-
-▶️ Test Case ID
-
-▶️ Feature / Module
-
-▶️ Test Scenario
-
-▶️ Pre-condition
-
-▶️ Steps to Reproduce
-
-▶️ Expected Result
-
-▶️ Status
-
-📝 Sample Test Case – Positive
-
-TC_CO_001 – Successful Checkout
+**Sample Test Case (Positive)**
+**TC_LOGIN_001 – Valid Login**
 
 Steps:
+1. Navigate to Login page
+2. Input valid email
+3. Input valid password
+4. Click "Login"
 
-Add a product to the cart
+Expected Result:
+User is successfully logged in and redirected to Dashboard.
 
-Open the checkout page
+**Sample Test Case (Negative)**
+**TC_LOGIN_005 – Invalid Password**
 
-Fill in shipping details
+Expected Result:
+System displays "Invalid email or password."
 
-Select payment method
+🐞 Bug Reports
+---
+Link: https://docs.google.com/spreadsheets/d/1r6WsoMgUfc_BHciAIzQ1EoMZwqYu3sn_KV0lmpDWWdc#gid=93229572
 
-Confirm the order
+**Bug Report Fields**
 
-Expected:
-Order is successfully created and user is redirected to the Order Confirmation page.
+- Bug ID
+- Severity
+- Priority
+- Steps to Reproduce
+- Actual Result
+- Expected Result
+- Evidence
 
-📝 Sample Test Case – Negative
-
-TC_LOGIN_005 – Login with Incorrect Password
-
-Expected:
-Error message displayed: "Invalid email or password."
-
-📌 Tools Used
-
-Google Sheets
-
-Jira
-
-
-**🐞 Bug Report Documentation**
-
-🔗 View Bug Reports: https://github.com/yourusername/qa-portfolio/blob/main/BugReports.md
-
-Bug reports are written using the following format:
-
-🆔 Bug ID
-
-🐛 Title
-
-🔥 Severity
-
-⏱ Priority
-
-🔄 Steps to Reproduce
-
-💥 Actual Result
-
-🎯 Expected Result
-
-📎 Evidence
-
-🚨 Sample Bug Report
-
-BUG_CART_012 – Total Price Doesn’t Update After Changing Quantity
+**Sample Bug**
+**BUG_CART_012 – Total Price Not Updating**
 
 Severity: High
-
 Priority: P1
 
 Steps:
+1. Open Cart page
+2. Change quantity of product
 
-Open the Cart page
+Actual Result:
+Total price does not update.
 
-Increase or decrease the quantity
+Expected Result:
+Total price should change according to the updated quantity.
 
-Actual:
-Total price stays the same
-
-Expected:
-Total price should update automatically based on quantity
-
-**🎯 Summary of Responsibilities**
-
-🔍 Create test plans based on business requirements
-
-📝 Write comprehensive positive & negative test cases
-
-🧪 Perform manual functional & regression testing
-
-🐞 Log detailed and reproducible bug reports
-
-🤝 Collaborate with developers & PMs for issue resolution
-
-📊 Prepare test summary reports for release readiness
+Responsibilities in Projects
+---
+- Creating test plans
+- Designing test cases (positive, negative, edge)
+- Executing manual testing
+- Conducting regression testing
+- Logging bugs with complete reproduction steps
+- Retesting fixed issues
+- Delivering test summary reports
