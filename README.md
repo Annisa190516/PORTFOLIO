@@ -32,7 +32,7 @@ I enjoy breaking things (in a good way 😄) and helping teams ship features wit
 
 🧪 QA Projects
 ---
-Here is a collection of Quality Assurance projects I’ve worked on, including test plans, test cases, and bug reports. All documents are created manually as part of my professional QA practice.
+Below is a sample QA project I developed, consisting of a test plan, structured test cases, and bug reports. All documentation was manually crafted to demonstrate my testing approach and methodology.
 
 📄 Test Plan
 ---
